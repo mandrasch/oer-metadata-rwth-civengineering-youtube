@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://schema.org",
+    "url":"https://www.youtube.com/watch?v=CKwfCh4xk6A",
+    "@type": "VideoObject",
+    "name": "ELVA - The Railway Signalling Lab",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.en",
+    "description": "Railway safety and operation are two very complex topics. The interaction of safety systems and operation is a major field of education & research at the Institute of Transport Science. For this purpose all generations of interlocking systems are in operation at the railway lab 'ELVA'.",
+    "thumbnailUrl": "http://i3.ytimg.com/vi/CKwfCh4xk6A/maxresdefault.jpg",
+    "uploadDate": "2019-09-06",
+    "learningResourceType": "video",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Civil Engineering RWTH Aachen University",
+      "description":"Open Educational Resources Initiative by the Faculty of Civil Engineering of the RWTH Aachen University.",
+      "url":"https://www.youtube.com/channel/UCMg7OPagfjM_eUYsDw3c4-A/videos"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "url":"https://www.youtube.com/watch?v=u8yFPm8Y6cc",
+    "@type": "VideoObject",
+    "name": "Dike Breach (long version)",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.en",
+    "description": "Flood polders are used to improve water retention and thus attenuate flood peaks in the course of small-scale and average flood events. Breach formation processes and its influencing factors are still subject to a number of uncertainties. In that context, physical model tests of dike breaches were performed in the hydraulic laboratory in Aachen to quantify the targeted filling of flood polders.",
+    "thumbnailUrl": "http://i3.ytimg.com/vi/u8yFPm8Y6cc/maxresdefault.jpg",
+    "uploadDate": "2019-08-15",
+    "learningResourceType": "video",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Civil Engineering RWTH Aachen University",
+      "description":"Open Educational Resources Initiative by the Faculty of Civil Engineering of the RWTH Aachen University.",
+      "url":"https://www.youtube.com/channel/UCMg7OPagfjM_eUYsDw3c4-A/videos"
+    }
+  }
+]
